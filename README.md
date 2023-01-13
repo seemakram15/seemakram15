@@ -40,7 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seemakram15&show_icons=true&locale=en" alt="seemakram15" /></p>
 
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=seemakram15&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/seemakram15/github-stats-transparent/output/generated/languages.svg)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=seemakram15&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seemakram15&theme=blue-green)
