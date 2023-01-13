@@ -22,8 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_w_a_s_e_e_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_w_a_s_e_e_m" height="30" width="40" /></a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/waseem-akram15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-akram15" height="30" width="40" /></a>
+&nbsp;&nbsp;
 <a href="https://fb.com/its.wasiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="its.wasiii" height="30" width="40" /></a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/its_waseem15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_waseem15" height="30" width="40" /></a>
 </p>
 
