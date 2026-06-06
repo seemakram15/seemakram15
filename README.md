@@ -137,15 +137,12 @@ Building scalable web applications, AI-powered products, intelligent agents, and
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seemakram15&show_icons=true&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seemakram15&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemakram15&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seemakram15&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seemakram15&theme=github_dark)
 
 ---
 
