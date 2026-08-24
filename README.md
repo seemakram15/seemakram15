@@ -25,7 +25,7 @@
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-## 👨‍💻 &nbsp;whoami
+<h2 align="center">👨‍💻 &nbsp;whoami</h2>
 
 <table>
 <tr>
@@ -86,110 +86,130 @@ end
 
 <!-- ═══════════════════════════ TECH ═══════════════════════════ -->
 
-## ⚙️ &nbsp;Tech Arsenal
+<h2 align="center">⚙️ &nbsp;Tech Arsenal</h2>
 
 <table align="center">
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ruby,js,ts,html,css,py&theme=dark" alt="Languages" /></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Frameworks</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=rails,react,redux,nodejs,bootstrap,tailwind,jquery&theme=dark" alt="Frameworks" /></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Data</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,graphql&theme=dark" alt="Databases" /></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Cloud &amp; DevOps</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,heroku,docker,nginx,linux,githubactions&theme=dark" alt="Cloud" /></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Tooling</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,vscode,figma&theme=dark" alt="Tools" /></td>
-</tr>
+  <tr>
+    <td align="right" width="190"><b>Languages</b>&nbsp;&nbsp;</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=ruby,js,ts,html,css,py&theme=dark&perline=7" height="46" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks</b>&nbsp;&nbsp;</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=rails,react,redux,nodejs,tailwind,bootstrap,jquery&theme=dark&perline=7" height="46" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data &amp; APIs</b>&nbsp;&nbsp;</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,graphql&theme=dark&perline=7" height="46" alt="Data" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; DevOps</b>&nbsp;&nbsp;</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=aws,azure,heroku,docker,nginx,linux,githubactions&theme=dark&perline=7" height="46" alt="Cloud" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tooling</b>&nbsp;&nbsp;</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,vscode,figma&theme=dark&perline=7" height="46" alt="Tools" /></td>
+  </tr>
 </table>
 
 <div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=flat-square&labelColor=0D1117&color=10A37F" height="26" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-0D1117?style=flat-square&logo=anthropic&logoColor=D97757&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C9C7C&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/Vector_DBs-0D1117?style=flat-square&labelColor=0D1117&color=06B6D4" height="26" />
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0D1117" height="26" />
+  <br />
+  <img src="https://img.shields.io/badge/LLM_Engineering-7C3AED?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-06B6D4?style=flat-square&labelColor=0D1117" height="26" />
+  <br />
+  <img src="https://img.shields.io/badge/Sidekiq-F43F5E?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/RSpec_%2F_TDD-F43F5E?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/REST_%26_GraphQL-7C3AED?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/CI%2FCD-06B6D4?style=flat-square&labelColor=0D1117" height="26" />
+  <img src="https://img.shields.io/badge/System_Design-8B5CF6?style=flat-square&labelColor=0D1117" height="26" />
+</div>
 
-**AI &amp; Generative AI**
-
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic_Claude-7C3AED?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-06B6D4?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-F43F5E?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_Search-0D1117?style=flat-square&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=chatbot&logoColor=white" />
-<img src="https://img.shields.io/badge/Workflow_Automation-06B6D4?style=flat-square&logo=n8n&logoColor=white" />
-
-**Backend &amp; Quality**
-
-<img src="https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logo=sidekiq&logoColor=white" />
-<img src="https://img.shields.io/badge/RSpec-9B111E?style=flat-square&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-25A162?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/TDD-4CAF50?style=flat-square&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" alt="" />
 </div>
 
 <!-- ═══════════════════════════ PROFICIENCY ═══════════════════════════ -->
 
-## 📊 &nbsp;Proficiency Map
+<h2 align="center">📊 &nbsp;Proficiency Map</h2>
 
-<table>
-<tr><td width="50%" valign="top">
-
-**Core Engineering**
-
-| Skill | Depth | |
-|:--|:--|--:|
-| Ruby on Rails | `███████████████████░` | **96%** |
-| PostgreSQL / SQL | `██████████████████░░` | **92%** |
-| REST &amp; API Design | `██████████████████░░` | **90%** |
-| JavaScript / ES6+ | `█████████████████░░░` | **88%** |
-| React &amp; Redux | `████████████████░░░░` | **84%** |
-| RSpec / TDD | `█████████████████░░░` | **88%** |
-
-</td><td width="50%" valign="top">
-
-**AI &amp; Platform**
-
-| Skill | Depth | |
-|:--|:--|--:|
-| LLM Integration | `██████████████████░░` | **92%** |
-| AI Agents / Workflows | `█████████████████░░░` | **88%** |
-| RAG Pipelines | `████████████████░░░░` | **85%** |
-| Cloud &amp; DevOps | `████████████████░░░░` | **83%** |
-| Redis / Sidekiq | `█████████████████░░░` | **87%** |
-| System Design | `█████████████████░░░` | **89%** |
-
-</td></tr>
+<table align="center">
+  <tr>
+    <th align="left" width="150">Core Engineering</th>
+    <th width="180"></th>
+    <th width="60"></th>
+    <th width="40"></th>
+    <th align="left" width="150">AI &amp; Platform</th>
+    <th width="180"></th>
+    <th width="60"></th>
+  </tr>
+  <tr>
+    <td>Ruby on Rails</td><td><code>███████████████████░</code></td><td align="right"><b>96%</b></td>
+    <td></td>
+    <td>LLM Integration</td><td><code>██████████████████░░</code></td><td align="right"><b>92%</b></td>
+  </tr>
+  <tr>
+    <td>PostgreSQL / SQL</td><td><code>██████████████████░░</code></td><td align="right"><b>92%</b></td>
+    <td></td>
+    <td>AI Agents</td><td><code>█████████████████░░░</code></td><td align="right"><b>88%</b></td>
+  </tr>
+  <tr>
+    <td>API Architecture</td><td><code>██████████████████░░</code></td><td align="right"><b>90%</b></td>
+    <td></td>
+    <td>RAG Pipelines</td><td><code>█████████████████░░░</code></td><td align="right"><b>85%</b></td>
+  </tr>
+  <tr>
+    <td>JavaScript ES6+</td><td><code>█████████████████░░░</code></td><td align="right"><b>88%</b></td>
+    <td></td>
+    <td>System Design</td><td><code>█████████████████░░░</code></td><td align="right"><b>89%</b></td>
+  </tr>
+  <tr>
+    <td>RSpec / TDD</td><td><code>█████████████████░░░</code></td><td align="right"><b>88%</b></td>
+    <td></td>
+    <td>Redis / Sidekiq</td><td><code>█████████████████░░░</code></td><td align="right"><b>87%</b></td>
+  </tr>
+  <tr>
+    <td>React &amp; Redux</td><td><code>████████████████░░░░</code></td><td align="right"><b>84%</b></td>
+    <td></td>
+    <td>Cloud &amp; DevOps</td><td><code>████████████████░░░░</code></td><td align="right"><b>83%</b></td>
+  </tr>
 </table>
 
-<!-- ═══════════════════════════ DIAGRAMS ═══════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" alt="" />
+</div>
 
-## 🧠 &nbsp;How I Build
+<!-- ═══════════════════════════ ARCHITECTURE ═══════════════════════════ -->
+
+<h2 align="center">🧠 &nbsp;How I Build</h2>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#0D1117','primaryColor':'#161B22','primaryTextColor':'#C9D1D9','primaryBorderColor':'#7C3AED','lineColor':'#06B6D4','secondaryColor':'#1F2937','tertiaryColor':'#161B22','fontFamily':'ui-monospace, SFMono-Regular, monospace','fontSize':'14px'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#E6EDF3','primaryBorderColor':'#7C3AED','lineColor':'#06B6D4','secondaryColor':'#1B1230','tertiaryColor':'#0D1117','fontFamily':'ui-monospace, SFMono-Regular, monospace','fontSize':'15px'},'flowchart':{'curve':'basis','nodeSpacing':45,'rankSpacing':70}}}%%
 flowchart LR
-    A([💡 Business Problem]) --> B[🧭 Domain Modeling]
+    A([💡 Business Problem]) --> B[🧭 Domain Model]
     B --> C[🧪 Spec First · RSpec]
     C --> D{{⚙️ Rails Core}}
-    D --> E[🗄️ PostgreSQL + Redis]
+
+    D --> E[(🗄️ PostgreSQL · Redis)]
+    D --> G[⚛️ React Frontend]
     D --> F[🤖 AI Layer]
-    F --> F1[LLM / Claude / OpenAI]
+
+    F --> F1[Claude / OpenAI]
     F --> F2[RAG + Vector Search]
     F --> F3[Agents + Automation]
-    D --> G[⚛️ React Frontend]
-    E --> H[[🚀 CI/CD → AWS · Azure]]
+
+    E --> H[[🚀 CI/CD · AWS · Azure]]
+    G --> H
     F1 --> H
     F2 --> H
     F3 --> H
-    G --> H
     H --> I([📈 Measured Outcome])
 
     classDef core fill:#161B22,stroke:#7C3AED,stroke-width:2px,color:#E6EDF3
@@ -200,13 +220,10 @@ flowchart LR
     class H,I ship
 ```
 
-<table>
-<tr><td width="50%">
-
-**Where the work goes**
+<h3 align="center">Where the work goes</h3>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'pie1':'#7C3AED','pie2':'#06B6D4','pie3':'#F43F5E','pie4':'#8B5CF6','pie5':'#22D3EE','pieTitleTextSize':'16px','pieSectionTextColor':'#0D1117','pieStrokeColor':'#0D1117','fontFamily':'ui-monospace, monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'pie1':'#7C3AED','pie2':'#06B6D4','pie3':'#8B5CF6','pie4':'#22D3EE','pie5':'#F43F5E','pieOuterStrokeWidth':'0px','pieTitleTextSize':'0px','pieSectionTextSize':'15px','pieLegendTextSize':'15px','pieSectionTextColor':'#0D1117','fontFamily':'ui-monospace, SFMono-Regular, monospace'}}}%%
 pie showData
     "Rails / Backend" : 40
     "AI + Agents" : 25
@@ -215,114 +232,37 @@ pie showData
     "Testing" : 8
 ```
 
-</td><td width="50%">
-
-**Delivery loop**
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#C9D1D9','primaryBorderColor':'#06B6D4','lineColor':'#7C3AED','fontFamily':'ui-monospace, monospace'}}}%%
-flowchart TD
-    S([Scope]) --> T[Test]
-    T --> B[Build]
-    B --> R[Review]
-    R --> D[Deploy]
-    D --> M[Measure]
-    M -->|iterate| S
-
-    classDef n fill:#161B22,stroke:#06B6D4,stroke-width:2px,color:#E6EDF3
-    class S,T,B,R,D,M n
-```
-
-</td></tr>
-</table>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" alt="" />
 </div>
 
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 
-## 📈 &nbsp;GitHub Analytics
+<h2 align="center">📈 &nbsp;GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=seemakram15&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9&border_radius=12" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=seemakram15&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=7C3AED&fire=F43F5E&currStreakNum=FFFFFF&currStreakLabel=06B6D4&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=seemakram15&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=7C3AED&fire=F43F5E&currStreakNum=FFFFFF&currStreakLabel=06B6D4&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="Contribution streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemakram15&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&border_radius=12" alt="Top languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seemakram15&theme=github_dark" alt="Profile details" />
+<br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seemakram15&bg_color=0D1117&color=C9D1D9&title_color=7C3AED&line=7C3AED&point=06B6D4&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=Contribution%20Activity" alt="Activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seemakram15&theme=github_dark" width="88%" alt="Profile summary" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seemakram15&theme=github_dark" alt="Repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seemakram15&theme=github_dark" alt="Most commit language" />
+<br /><br />
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=seemakram15&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seemakram15&theme=github_dark" height="215" alt="Stats" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seemakram15&theme=github_dark&utcOffset=5" height="215" alt="Productive time" />
 
-</div>
+<br /><br />
 
-<!-- ═══════════════════════════ EXPERTISE ═══════════════════════════ -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seemakram15&theme=github_dark" height="215" alt="Repos per language" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seemakram15&theme=github_dark" height="215" alt="Most commit language" />
 
-## 🌟 &nbsp;What I'm Hired For
+<br /><br />
 
-<table align="center">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🛠️
-**Rails Engineering**
-
-Multi-tenant SaaS · Complex domain models · Background jobs with Sidekiq · Query &amp; index tuning · Legacy upgrade paths
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🤖
-**AI Product Work**
-
-LLM feature design · Claude &amp; OpenAI integration · RAG over private data · Agentic workflows · Prompt evaluation
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ☁️
-**Platform &amp; Delivery**
-
-AWS Elastic Beanstalk · Azure · CI/CD pipelines · Zero-downtime deploys · Monitoring &amp; performance budgets
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-### 🔌
-**API Architecture**
-
-REST &amp; GraphQL design · Versioning strategy · Third-party &amp; payment integrations · Webhooks at scale
-
-</td>
-<td align="center" valign="top">
-
-### ⚛️
-**Frontend**
-
-React + Redux apps · Component systems · Responsive UI · Hotwire / Turbo in Rails · Accessibility basics
-
-</td>
-<td align="center" valign="top">
-
-### 🧪
-**Quality**
-
-TDD with RSpec · Integration &amp; request specs · Coverage that means something · Refactoring under tests
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`Problem Solving` &nbsp;·&nbsp; `Technical Leadership` &nbsp;·&nbsp; `Team Collaboration` &nbsp;·&nbsp; `Clear Communication` &nbsp;·&nbsp; `Agile Adaptability` &nbsp;·&nbsp; `Critical Thinking`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seemakram15&bg_color=0D1117&color=C9D1D9&title_color=7C3AED&line=7C3AED&point=06B6D4&area=true&area_color=7C3AED&hide_border=true&radius=10&custom_title=Contribution%20Activity" width="96%" alt="Activity graph" />
 
 </div>
 
@@ -330,29 +270,120 @@ TDD with RSpec · Integration &amp; request specs · Coverage that means somethi
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" alt="" />
 </div>
 
-<!-- ═══════════════════════════ CONTRIB SNAKE ═══════════════════════════ -->
+<!-- ═══════════════════════════ EXPERTISE ═══════════════════════════ -->
+
+<h2 align="center">🌟 &nbsp;What I'm Hired For</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="270" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/🛠️_RAILS_ENGINEERING-7C3AED?style=for-the-badge&labelColor=0D1117" height="28" />
+      <br /><br />
+      Multi-tenant SaaS<br />
+      Complex domain models<br />
+      Sidekiq background jobs<br />
+      Query &amp; index tuning<br />
+      Legacy upgrade paths
+      <br /><br />
+    </td>
+    <td align="center" width="270" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/🤖_AI_PRODUCT_WORK-8B5CF6?style=for-the-badge&labelColor=0D1117" height="28" />
+      <br /><br />
+      LLM feature design<br />
+      Claude &amp; OpenAI integration<br />
+      RAG over private data<br />
+      Agentic workflows<br />
+      Prompt evaluation
+      <br /><br />
+    </td>
+    <td align="center" width="270" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/☁️_PLATFORM_%26_DELIVERY-06B6D4?style=for-the-badge&labelColor=0D1117" height="28" />
+      <br /><br />
+      AWS Elastic Beanstalk<br />
+      Azure &amp; Heroku<br />
+      CI/CD pipelines<br />
+      Zero-downtime deploys<br />
+      Monitoring &amp; budgets
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/🔌_API_ARCHITECTURE-7C3AED?style=for-the-badge&labelColor=0D1117" height="28" />
+      <br /><br />
+      REST &amp; GraphQL design<br />
+      Versioning strategy<br />
+      Payment integrations<br />
+      Webhooks at scale<br />
+      Third-party APIs
+      <br /><br />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/⚛️_FRONTEND-8B5CF6?style=for-the-badge&labelColor=0D1117" height="28" />
+      <br /><br />
+      React + Redux apps<br />
+      Component systems<br />
+      Hotwire / Turbo<br />
+      Responsive layouts<br />
+      Accessibility basics
+      <br /><br />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/🧪_QUALITY-06B6D4?style=for-the-badge&labelColor=0D1117" height="28" />
+      <br /><br />
+      TDD with RSpec<br />
+      Request &amp; integration specs<br />
+      Coverage that means something<br />
+      Refactoring under tests<br />
+      Code review culture
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/Problem_Solving-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED" height="24" />
+  <img src="https://img.shields.io/badge/Technical_Leadership-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" height="24" />
+  <img src="https://img.shields.io/badge/Team_Collaboration-0D1117?style=flat-square&labelColor=0D1117&color=06B6D4" height="24" />
+  <img src="https://img.shields.io/badge/Clear_Communication-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" height="24" />
+  <img src="https://img.shields.io/badge/Agile_Adaptability-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" height="24" />
+  <img src="https://img.shields.io/badge/Critical_Thinking-0D1117?style=flat-square&labelColor=0D1117&color=F43F5E" height="24" />
+</div>
 
-### 🐍 &nbsp;Contribution Graph, Eaten
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" alt="" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seemakram15/seemakram15/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seemakram15/seemakram15/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/seemakram15/seemakram15/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
+<h3 align="center">🐍 &nbsp;Contribution Graph, Eaten</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seemakram15/seemakram15/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seemakram15/seemakram15/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/seemakram15/seemakram15/output/github-contribution-grid-snake.svg" width="98%" alt="Contribution snake" />
+  </picture>
 </div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
+<h2 align="center">🤝 &nbsp;Let's Build Something</h2>
+
 <div align="center">
 
-## 🤝 &nbsp;Let's Build Something
-
-<a href="https://waseemakram.cc"><img src="https://img.shields.io/badge/🌐_Portfolio-waseemakram.cc-7C3AED?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/waseem-akram15"><img src="https://img.shields.io/badge/💼_LinkedIn-waseem--akram15-06B6D4?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="mailto:seemakram15@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-seemakram15@gmail.com-F43F5E?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://waseemakram.cc"><img src="https://img.shields.io/badge/Portfolio-waseemakram.cc-7C3AED?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" height="34" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/waseem-akram15"><img src="https://img.shields.io/badge/LinkedIn-waseem--akram15-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="34" /></a>
+&nbsp;
+<a href="mailto:seemakram15@gmail.com"><img src="https://img.shields.io/badge/Email-seemakram15@gmail.com-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="34" /></a>
 
 <br /><br />
 
